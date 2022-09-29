@@ -19,6 +19,7 @@ This repository contains apps that can be used with as a starting point for some
 
 The shopping theme is used throughout the app.
 
+## Test
 ## Pre-Reqs
 
 - Familiarity with one of Angular, React, Svelte, or Vue
